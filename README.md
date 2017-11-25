@@ -13,28 +13,30 @@
 
 ## Usage (command line)
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```
 $ git clone https://github.com/hivickylai/acme-gallery.git
 ```
 
-2. Enter the repo directory and download dependencies:
+### 2. Enter the repo directory and download dependencies
+
+This tool makes use of Node.js and npm. You can find instructions for installing these here: https://docs.npmjs.com/getting-started/installing-node
 
 ```
 $ cd acme-gallery
 $ npm install
 ```
 
-3. Place any number of images in the `acme-gallery/images/` folder
+### 3. Place any number of images in the `acme-gallery/images/` folder
 
 These images will be optimized for you.
 
-4. Optionally, edit the `.sass` and `.pug` files
+### 4. Optionally, edit the `.sass` and `.pug` files
 
 You may wish to change the styling, or the page's title and description.
 
-5. Generate the gallery
+### 5. Generate the gallery
 
 In `acme-gallery/`, run:
 
