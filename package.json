@@ -1,0 +1,33 @@
+{
+  "name": "acme-gallery",
+  "version": "1.0.0",
+  "description": "Automatically generate a gallery page from images in a folder.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hivickylai/acme-gallery.git"
+  },
+  "keywords": [
+    "images",
+    "gallery",
+    "generate",
+    "webpage"
+  ],
+  "author": "Vicky Lai",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/hivickylai/acme-gallery/issues"
+  },
+  "homepage": "https://github.com/hivickylai/acme-gallery#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "pug": "^2.0.0-rc.4"
+  }
+}

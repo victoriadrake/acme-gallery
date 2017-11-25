@@ -1,0 +1,67 @@
+# acme-gallery: Automagically create a pure CSS gallery web page from a folder of image files
+
+**See a working example here: [vickylai.io/tokyo-life](https://vickylai.io/tokyo-life/)**
+
+**acme-gallery** creates an HTML page with CSS styling included. You can add the page to your website as a standalone gallery, or extract the HTML and styling to mix into other pages. Some comfort with HTML and CSS is recommended for the latter.
+
+## Files provided
+
+- `index.html` (generated from `index.pug`)
+- `style.css` (generated from `style.sass`)
+- `gulpfile.js`
+- `package.json`
+
+## Usage (command line)
+
+1. Clone the repository:
+
+```
+$ git clone https://github.com/hivickylai/acme-gallery.git
+```
+
+2. Enter the repo directory and download dependencies:
+
+```
+$ cd acme-gallery
+$ npm install
+```
+
+3. Place any number of images in the `acme-gallery/images/` folder
+
+These images will be optimized for you.
+
+4. Optionally, edit the `.sass` and `.pug` files
+
+You may wish to change the styling, or the page's title and description.
+
+5. Generate the gallery
+
+In `acme-gallery/`, run:
+
+```
+$ gulp generate
+```
+
+The program will output a `public/` folder containing the files for your gallery page.
+
+## License
+
+    acme-gallery: photo gallery page generator
+    Copyright (C) 2017 Vicky Lai
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+## Acme Corp.
+
+![Mail order catalog.](images/acme-catalog.jpg)
