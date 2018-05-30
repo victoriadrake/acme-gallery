@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hivickylai/acme-gallery.git"
+    "url": "git+https://github.com/vickylai/acme-gallery.git"
   },
   "keywords": [
     "images",
@@ -19,9 +19,9 @@
   "author": "Vicky Lai",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/hivickylai/acme-gallery/issues"
+    "url": "https://github.com/vickylai/acme-gallery/issues"
   },
-  "homepage": "https://github.com/hivickylai/acme-gallery#readme",
+  "homepage": "https://github.com/vickylai/acme-gallery#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",

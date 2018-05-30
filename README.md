@@ -1,6 +1,6 @@
 # acme-gallery: Automagically create a pure CSS gallery web page from a folder of image files
 
-**See a working example here: [vickylai.io/tokyo-life](https://vickylai.io/tokyo-life/)**
+**See a working example here: [vickylai.com/tokyo-life](https://vickylai.com/tokyo-life/)**
 
 **acme-gallery** creates an HTML page with CSS styling included. You can add the page to your website as a standalone gallery, or extract the HTML and styling to mix into other pages. Some comfort with HTML and CSS is recommended for the latter.
 
@@ -16,7 +16,7 @@
 ### 1. Clone the repository
 
 ```
-$ git clone https://github.com/hivickylai/acme-gallery.git
+$ git clone https://github.com/vickylai/acme-gallery.git
 ```
 
 ### 2. Enter the repo directory and download dependencies
