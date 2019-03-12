@@ -1,11 +1,11 @@
 {
-  "homepage": "https://github.com/vickylai/acme-gallery#readme",
+  "homepage": "https://github.com/victoriadotdev/acme-gallery#readme",
   "bugs": {
-    "url": "https://github.com/vickylai/acme-gallery/issues"
+    "url": "https://github.com/victoriadotdev/acme-gallery/issues"
   },
   "author": {
-    "name": "Vicky Lai",
-    "url": "https://vickylai.com"
+    "name": "Victoria Lai",
+    "url": "https://victoria.dev"
   },
   "keywords": [
     "images",
@@ -16,11 +16,11 @@
   "repository": "github:vickylai/acme-gallery.git",
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^4.0.0",
-    "gulp-imagemin": "^4.0.0",
-    "gulp-pug": "^3.3.0",
-    "gulp-sass": "^3.1.0"
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2"
   },
   "dependencies": {
     "minimatch": "^3.0.4"
