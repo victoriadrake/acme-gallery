@@ -16,7 +16,7 @@
 ### 1. Clone the repository
 
 ```
-$ git clone https://github.com/victoriadotdev/acme-gallery.git
+$ git clone https://github.com/victoriadrake/acme-gallery.git
 ```
 
 ### 2. Enter the repo directory and download dependencies
@@ -47,7 +47,7 @@ $ gulp generate
 The program will output a `public/` folder containing the files for your gallery page.
 
 # License
-Copyright (C) 2018 Victoria Lai
+Copyright (C) 2018 Victoria Drake
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as

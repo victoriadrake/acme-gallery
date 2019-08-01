@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/victoriadotdev/acme-gallery#readme",
+  "homepage": "https://github.com/victoriadrake/acme-gallery#readme",
   "bugs": {
-    "url": "https://github.com/victoriadotdev/acme-gallery/issues"
+    "url": "https://github.com/victoriadrake/acme-gallery/issues"
   },
   "author": {
     "name": "Victoria Lai",
@@ -13,7 +13,7 @@
     "generate",
     "webpage"
   ],
-  "repository": "github:vickylai/acme-gallery.git",
+  "repository": "github:victoriadrake/acme-gallery.git",
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "gulp": "^4.0.0",
